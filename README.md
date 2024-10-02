@@ -3,7 +3,7 @@
 
      On this GitHub portfolio, you’ll find projects that reflect my commitment to creating safer digital environments. Whether it’s through developing secure code, analyzing vulnerabilities, or staying updated with the latest in cybersecurity trends.
 
-Thank you for visiting my profile, and I look forward to connecting with you!
+     Thank you for visiting my profile, and I look forward to connecting with you!
 
 - 🌱 I am actively seeking a position as a Cybersecurity Analyst where I can apply my skills and passion for protecting digital assets. With a strong foundation in identifying vulnerabilities, analyzing threats, and implementing security measures.
 

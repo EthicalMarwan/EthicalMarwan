@@ -1,5 +1,5 @@
 - 👋 Hi, I appreciate you taking the time to review my work. My name is Marwan El-Shamy!
-- 👀  I’m passionate about cybersecurity and dedicated to protecting digital landscapes. My journey into cybersecurity began with a fascination for how technology shapes our world and the challenges that come with securing it. Over the years, I’ve immersed myself in learning about various cyber threats and the innovative solutions to combat them.
+-  I’m passionate about cybersecurity and dedicated to protecting digital landscapes. My journey into cybersecurity began with a fascination for how technology shapes our world and the challenges that come with securing it. Over the years, I’ve immersed myself in learning about various cyber threats and the innovative solutions to combat them.
 
      On this GitHub portfolio, you’ll find projects that reflect my commitment to creating safer digital environments. Whether it’s through developing secure code, analyzing vulnerabilities, or staying updated with the latest in cybersecurity trends.
 

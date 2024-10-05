@@ -14,6 +14,15 @@
 
 ### Skills
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Apply filters to SQL queries         | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -32,7 +41,7 @@
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EL9OSUL8SXF3">
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-blue?logo=google" alt="Google Cybersecurity Certification">
 </a>
-
+</div>
 
  ### Contact
 

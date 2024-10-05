@@ -17,11 +17,11 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Apply filters to SQL queries         | <a href="https://github.com/EthicalMarwan/Applying_filters_to_SQL_queries/blob/main/README.md">Applying filters to SQL queries</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|  | |
+|         | |
+|       | |
+|                  | |
+|  | |
 
 ### Network
 <div>

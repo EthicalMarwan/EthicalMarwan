@@ -18,10 +18,8 @@
 |-----------------------------------------------|----------------------------|
 | Azure Sentinel Honeypot Monitoring | <a href="https://github.com/EthicalMarwan/Azure_Sentinel_Honeypot_Monitoring_Project/blob/main/README.md">Azure Sentinel Honeypot Monitoring Project</a>|
 | Apply filters to SQL queries | <a href="https://github.com/EthicalMarwan/Applying_filters_to_SQL_queries/blob/main/README.md">Applying filters to SQL queries</a>|
-|         | |
-|       | |
-|                  | |
-|  | |
+| Crafting a Phishing Email | <a href="https://github.com/EthicalMarwan/Crafting_A_Phishing_Email/blob/main/README.md">Deploying False Login Page for Phishing Attacks</a> |
+
 
 ### Network
 <div>

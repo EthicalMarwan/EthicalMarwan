@@ -39,7 +39,7 @@
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EL9OSUL8SXF3">
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-blue?logo=google" alt="Google Cybersecurity Certification">
 </a>
-    <a href="https://github.com/user-attachments/files/19254883/CompTIA.Security%2B.ce.certificate.docx">
+    <a href="https://github.com/user-attachments/files/19255111/CompTIA.Security%2B.ce.certificate.pdf">
   <img src="https://github.com/user-attachments/assets/3b86f100-18a5-49ad-b527-ac5baa90e554" width="55" height="50"/>
 </div>
 

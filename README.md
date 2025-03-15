@@ -31,7 +31,7 @@
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Chronicle-blue?logo=google" alt="Google Chronicle">
+    <img src="https://img.shields.io/badge/Google%20Chronicle-blue?logo=google" alt="Google Chronicle" width="155" height="28">
  </div>
  
 ## Certifications

@@ -39,10 +39,14 @@
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EL9OSUL8SXF3">
   <img src="https://github.com/user-attachments/assets/993d300a-b0fe-4d48-8ee8-d06dca0cc307" width="120" height="110"/>
 <a/>
-    <a href="https://github.com/user-attachments/assets/7303a270-6402-4018-8ce8-e96627aa6c33">
+    <a href="https://github.com/user-attachments/files/20102624/CompTIA.A%2B.ce.certificate.pdf">
   <img src="https://github.com/user-attachments/assets/3b86f100-18a5-49ad-b527-ac5baa90e554" width="110" height="100"/>
+<a/>
+    <a href="https://github.com/user-attachments/assets/7303a270-6402-4018-8ce8-e96627aa6c33">
+  <img src="https://github.com/user-attachments/assets/3b86f100-18a5-49ad-b527-ac5baa90e554" width="110" height="100"/>    
 </div>
-     
+    
+ 
  ### Contact
  
 - 📫 Thank you for visiting my profile, and I look forward to connecting with you! You may contact me via my email address at your convenience.

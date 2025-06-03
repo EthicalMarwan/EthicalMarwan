@@ -42,7 +42,7 @@
     <a href="https://github.com/user-attachments/assets/2b982769-491a-4fdc-8313-df62d512a754">
   <img src="https://github.com/user-attachments/assets/81c15e89-5ce0-4fa3-b5fc-e4f8e9137d64" width="110" height="100"/>
 <a/>
-    <a href="https://github.com/user-attachments/assets/2b982769-491a-4fdc-8313-df62d512a754">
+    <a href="https://github.com/user-attachments/files/20573607/CompTIA.Network%2B.ce.certificate.pdf">
   <img src="https://github.com/user-attachments/assets/7c1c706c-d73e-42fe-a85b-3f1ae9a9c905" width="110" height="110"/>
 <a/>     
     <a href="https://github.com/user-attachments/assets/7303a270-6402-4018-8ce8-e96627aa6c33">

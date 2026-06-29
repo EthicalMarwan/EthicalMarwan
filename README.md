@@ -2,15 +2,17 @@
 <a href="https://www.linkedin.com/in/marwan-el-shamy-661040220"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  ## Introduction 
--  I’m passionate about cybersecurity and dedicated to protecting digital landscapes. My journey into cybersecurity began with a fascination for how technology shapes our world and the challenges that come with securing it. Over the years, I’ve immersed myself in learning about various cyber threats and the innovative solutions to combat them.
+ #### 🌐 About Me:
+- I am a dedicated IT and networking professional passionate about building, optimizing, and maintaining robust digital landscapes. My journey began with a fascination for how interconnected technologies shape our world and the complex infrastructure required to keep them running smoothly.Over the years, I have immersed myself in mastering network architectures, system administration, and innovative troubleshooting solutions to ensure high availability and seamless connectivity.
+ #### 🛠️ Core Skills:
+- Networking: TCP/IP, Routing & Switching, LAN/WAN, DNS/DHCP
+- IT Operations: System Administration, Hardware Diagnostics, Technical Support
+- Infrastructure: Cloud Architecture, Virtualization, Network Configuration
 
-     On this GitHub portfolio, you’ll find projects that reflect my commitment to creating safer digital environments. Whether it’s through developing secure code, analyzing vulnerabilities, or staying updated with the latest in cybersecurity trends.
-
+On this GitHub portfolio, you’ll find projects that reflect my commitment to building resilient and optimized digital infrastructure. Whether it’s through configuring network architectures, automating system deployments, or staying updated with the latest in enterprise IT and networking trends.
 ## Objective  
 
--  I am actively seeking a position as a Cybersecurity Analyst where I can apply my skills and passion for protecting digital assets. With a strong foundation in identifying vulnerabilities, analyzing threats, and implementing security measures.
-
--  I am eager to contribute to a dynamic team. My goal is to leverage my knowledge and experience to help organizations safeguard their information and maintain robust security postures. I am excited about the opportunity to grow and make a meaningful impact in the cybersecurity field.
+- I am actively seeking a position as a Network Engineer or IT Infrastructure Specialist where I can apply my skills and passion for building and maintaining robust digital environments. With a strong foundation in network architecture, system administration, and infrastructure optimization, I am eager to contribute to a dynamic team. My goal is to leverage my knowledge and experience to help organizations streamline operations, maximize network uptime, and maintain scalable infrastructure. I am excited about the opportunity to grow and make a meaningful impact in the IT and networking field.
 
 ### Skills
 
@@ -37,17 +39,21 @@
  
 ## Certifications
 <div>
+    <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/f965e42bc012459f841ec808f4fb7fbf">
+  <img src="https://github.com/user-attachments/assets/7c1c706c-d73e-42fe-a85b-3f1ae9a9c905" width="110" height="110"/>
+<a/>    
+    <a href="https://github.com/user-attachments/assets/7303a270-6402-4018-8ce8-e96627aa6c33">
+  <img src="https://github.com/user-attachments/assets/3b86f100-18a5-49ad-b527-ac5baa90e554" width="110" height="100"/>
+<a/>
+     <a href="https://github.com/user-attachments/assets/80079eef-3f1a-4acb-b22e-22acab7ce29c">
+  <img src="https://github.com/user-attachments/assets/7c1c706c-d73e-42fe-a85b-3f1ae9a9c905" width="110" height="110"/>
+<a/>  
+     <a href="https://github.com/user-attachments/assets/2b982769-491a-4fdc-8313-df62d512a754">
+  <img src="https://github.com/user-attachments/assets/81c15e89-5ce0-4fa3-b5fc-e4f8e9137d64" width="110" height="100"/>
+<a/>
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EL9OSUL8SXF3">
   <img src="https://github.com/user-attachments/assets/993d300a-b0fe-4d48-8ee8-d06dca0cc307" width="120" height="110"/>
 <a/>
-    <a href="https://github.com/user-attachments/assets/2b982769-491a-4fdc-8313-df62d512a754">
-  <img src="https://github.com/user-attachments/assets/81c15e89-5ce0-4fa3-b5fc-e4f8e9137d64" width="110" height="100"/>
-<a/>
-    <a href="https://github.com/user-attachments/assets/80079eef-3f1a-4acb-b22e-22acab7ce29c">
-  <img src="https://github.com/user-attachments/assets/7c1c706c-d73e-42fe-a85b-3f1ae9a9c905" width="110" height="110"/>
-<a/>     
-    <a href="https://github.com/user-attachments/assets/7303a270-6402-4018-8ce8-e96627aa6c33">
-  <img src="https://github.com/user-attachments/assets/3b86f100-18a5-49ad-b527-ac5baa90e554" width="110" height="100"/>    
 </div>
 
 

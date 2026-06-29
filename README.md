@@ -36,24 +36,11 @@ On this GitHub portfolio, you’ll find projects that reflect my commitment to b
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/Google%20Chronicle-blue?logo=google" alt="Google Chronicle" width="155" height="28">
  </div>
- 
+
+
 ## Certifications
 <div>
-    <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/f965e42bc012459f841ec808f4fb7fbf">
-  <img src="https://github.com/user-attachments/assets/7c1c706c-d73e-42fe-a85b-3f1ae9a9c905" width="110" height="110"/>
-<a/>    
-    <a href="https://github.com/user-attachments/assets/7303a270-6402-4018-8ce8-e96627aa6c33">
-  <img src="https://github.com/user-attachments/assets/3b86f100-18a5-49ad-b527-ac5baa90e554" width="110" height="100"/>
-<a/>
-     <a href="https://github.com/user-attachments/assets/80079eef-3f1a-4acb-b22e-22acab7ce29c">
-  <img src="https://github.com/user-attachments/assets/7c1c706c-d73e-42fe-a85b-3f1ae9a9c905" width="110" height="110"/>
-<a/>  
-     <a href="https://github.com/user-attachments/assets/2b982769-491a-4fdc-8313-df62d512a754">
-  <img src="https://github.com/user-attachments/assets/81c15e89-5ce0-4fa3-b5fc-e4f8e9137d64" width="110" height="100"/>
-<a/>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EL9OSUL8SXF3">
-  <img src="https://github.com/user-attachments/assets/993d300a-b0fe-4d48-8ee8-d06dca0cc307" width="120" height="110"/>
-<a/>
+  <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/f965e42bc012459f841ec808f4fb7fbf"><img src="https://github.com/user-attachments/assets/2f479d6f-21e4-498d-912d-e8e7dfcff0d3" width="110" height="110"/></a><a href="https://github.com/user-attachments/assets/7303a270-6402-4018-8ce8-e96627aa6c33"><img src="https://github.com/user-attachments/assets/3b86f100-18a5-49ad-b527-ac5baa90e554" width="110" height="100"/></a><a href="https://github.com/user-attachments/assets/80079eef-3f1a-4acb-b22e-22acab7ce29c"><img src="https://github.com/user-attachments/assets/7c1c706c-d73e-42fe-a85b-3f1ae9a9c905" width="110" height="110"/></a><a href="https://github.com/user-attachments/assets/2b982769-491a-4fdc-8313-df62d512a754"><img src="https://github.com/user-attachments/assets/81c15e89-5ce0-4fa3-b5fc-e4f8e9137d64" width="110" height="100"/></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EL9OSUL8SXF3"><img src="https://github.com/user-attachments/assets/993d300a-b0fe-4d48-8ee8-d06dca0cc307" width="120" height="110"/></a>
 </div>
 
 
